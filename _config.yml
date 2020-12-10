@@ -9,7 +9,7 @@ description: '我练成了那套掌法'
 keywords:
 author: 许除非
 language: zh-Hans
-timezone: ''
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
