@@ -142,6 +142,8 @@ social_icons:
   enable: true
   icons_only: false
   transition: false
+  GitHub: github
+  E-Mail: mail
 
 # Blog rolls
 links_icon: link
@@ -242,9 +244,9 @@ post_wordcount:
   #description: ex. subscribe to my blog by scanning my public wechat account
 
 # Reward
-#reward_comment: Donate comment here
-#wechatpay: /images/wechatpay.jpg
-#alipay: /images/alipay.jpg
+reward_comment: 我习得了那套掌法，不打赏一下吗？
+wechatpay: /images/wechatpay.jpg
+alipay: /images/alipay.jpg
 #bitcoin: /images/bitcoin.png
 
 # Declare license on posts
