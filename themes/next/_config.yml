@@ -92,11 +92,11 @@ index_with_subtitle: false
 # Value before `||` delimeter is the target link.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, question icon will be loaded.
 menu:
-  home: /
+  home: / || home
   #about: /about/ || user
-  tags: /tags/
-  categories: /categories/
-  archives: /archives/
+  tags: /tags/ || tags
+  categories: /categories/ || th
+  archives: /archives/ || archive
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
   #commonweal: /404/ || heartbeat
@@ -127,8 +127,9 @@ scheme: Mist
 # Value before `||` delimeter is the target permalink.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
 social:
-  GitHub: https://github.com/botao-xu
-  E-Mail: mailto:xbt1024@gmail.com
+  GitHub: https://github.com/botao-xu || github
+  E-Mail: mailto:xbt1024@gmail.com || envelope
+  Zhihu: https://www.zhihu.com/people/koxu-bo-tao || heartbeat
   #Google: https://plus.google.com/yourname || google
   #Twitter: https://twitter.com/yourname || twitter
   #FB Page: https://www.facebook.com/yourname || facebook
